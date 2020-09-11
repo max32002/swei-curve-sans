@@ -7,7 +7,7 @@
 ![字體預覽](https://github.com/max32002/swei-curve-sans/raw/master/preview/welcome.png)
 
 和思源黑體一樣，支援7種的字重：
-![字體比較預覽](https://github.com/max32002/swei-bow-sans/raw/master/preview/compare_style.png)
+![字體比較預覽](https://github.com/max32002/swei-curve-sans/raw/master/preview/compare_style.png)
 附註：目前有些筆畫還沒有套用到效果，是程式需要改進的地方。
 
 ## 更新日誌
