@@ -2,7 +2,7 @@
 
 獅尾彎黑體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的變圓和拔腳改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；可以免費商用，歡迎大家自由應用、自由優化、自由改作！
 
-「獅尾彎黑體」與「獅尾圓體」的主要差別在筆觸是否有做調整，獅尾彎黑體所套用的效果較少，在筆觸沒有做調整。
+「獅尾彎黑體」與「獅尾圓體」差別在筆觸是否有做調整，獅尾彎黑體所套用的效果較少，在筆觸沒有做調整。
 
 ![字體預覽](https://github.com/max32002/swei-curve-sans/raw/master/preview/welcome.png)
 
@@ -59,12 +59,14 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾彎腿黑體 Swei Curve Leg
+https://max-everyday.com/2020/09/swei-curve-leg/
 * 獅尾彎黑體 Swei Curve Sans
 https://max-everyday.com/2020/09/swei-curve-sans/
-* 獅尾霓黑體 Swei Bow Sans
-https://max-everyday.com/2020/09/swei-bow-sans/
 * 獅尾霓腿黑體 Swei Bow Leg
 https://max-everyday.com/2020/09/swei-bow-leg/
+* 獅尾霓黑體 Swei Bow Sans
+https://max-everyday.com/2020/09/swei-bow-sans/
 * 獅尾蝙蝠圓體 Swei Bat Sans
 https://max-everyday.com/2020/09/swei-bat-sans/
 * 獅尾牙膏圓體 Swei Toothpaste
@@ -105,6 +107,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 何某手寫體 Nani Font
+https://max-everyday.com/2020/09/nanifont/
 * 內海字體  Naikai Font
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 Bakudai Font
